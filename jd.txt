@@ -1,0 +1,24 @@
+Data Scientist
+
+We are looking for a Data Scientist to join our analytics team. The ideal candidate
+will have strong experience building machine learning models, analyzing large
+datasets, and communicating insights to stakeholders.
+
+Requirements:
+- Bachelor's degree in Computer Science, Statistics, or a related field
+- 2+ years of experience in a data science or machine learning role
+- Strong proficiency in Python and SQL
+- Hands-on experience with machine learning and deep learning frameworks
+  such as scikit-learn, TensorFlow, or PyTorch
+- Experience with data manipulation libraries such as Pandas and NumPy
+- Familiarity with natural language processing (NLP) techniques
+- Experience with version control (Git) and cloud platforms (AWS or Azure)
+- Ability to visualize and communicate findings using tools like Power BI or Excel
+- Strong problem-solving skills and attention to detail
+
+Responsibilities:
+- Build and evaluate predictive models using machine learning techniques
+- Clean, process, and analyze large structured and unstructured datasets
+- Collaborate with engineering teams to deploy models into production
+- Present findings and recommendations to non-technical stakeholders
+- Stay current with the latest developments in machine learning and AI

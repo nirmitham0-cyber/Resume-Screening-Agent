@@ -1,0 +1,177 @@
+Candidate,Final Score,Semantic Score,Skill Score,Education Score,Experience Score,Matched Skills,Missing Skills,Recommendation,LLM Analysis,Rank
+Ananya.pdf,56.59,51.93,68.75,100,0,"pytorch, c, python, sql, pandas, nlp, git, scikit-learn, deep learning, machine learning, numpy","azure, power bi, excel, aws, tensorflow",Moderate Fit,"Candidate Summary:
+Ananya Manjunath is a recent Computer Applications graduate with a strong programming foundation in Python, PyTorch, and MySQL. She has proven experience building end-to-end machine learning models and has certifications in Deep Learning, Computer Vision, and Natural Language Processing.
+
+Strengths:
+- Strong programming foundation in Python, PyTorch, and MySQL
+- Proven experience building end-to-end machine learning models
+- Hands-on experience with machine learning and deep learning frameworks such as PyTorch and Scikit-learn
+- Familiarity with natural language processing (NLP) techniques
+
+Weaknesses:
+- Lack of direct experience in a data science or machine learning role
+- Limited experience with cloud platforms (AWS or Azure)
+- Bachelor's degree in Computer Applications, which may not be directly related to the field of Data Science
+
+Hiring Recommendation:
+Recommended
+Reason:
+Ananya has a strong programming foundation and proven experience building machine learning models. However, she lacks direct experience in a data science or machine learning role, and her degree is not directly related to the field of Data Science. With additional experience and training, she may be a strong candidate for a Data Scientist position.",1
+Nirmitha_M.pdf,55.98,54.45,62.5,100,0,"c, excel, python, sql, pandas, nlp, git, scikit-learn, machine learning, numpy","azure, pytorch, power bi, aws, deep learning, tensorflow",Moderate Fit,"Candidate Summary:
+Recent BCA graduate with a solid foundation in Python, web technologies, and Artificial Intelligence. Gained hands-on experience through internships and projects involving Machine Learning models, NLP, and full-stack AI systems. Driven to learn emerging technologies and apply them to solve real-world problems.
+
+Strengths:
+- Strong foundation in Python, web technologies, and Artificial Intelligence
+- Hands-on experience with Machine Learning models, NLP, and full-stack AI systems
+- Proficient in various libraries and frameworks such as NumPy, Pandas, Matplotlib, Scikit-learn, NLTK, Flask, and Bootstrap
+
+Weaknesses:
+- Limited work experience (only internships and projects)
+- Education is still in progress (BCA degree not completed)
+- No direct experience with cloud platforms (AWS or Azure)
+
+Hiring Recommendation:
+Recommended
+Reason: The candidate has a solid foundation in Python, web technologies, and Artificial Intelligence, and has gained hands-on experience through internships and projects. However, limited work experience and education still in progress may be a concern for some employers.",2
+Nathan_Reyes.docx,55.9,54.29,62.5,0,100,"pytorch, c, python, sql, aws, pandas, git, scikit-learn, deep learning, machine learning","azure, power bi, excel, nlp, numpy, tensorflow",Moderate Fit,"Candidate Summary:
+Highly experienced data scientist with 6 years of experience in building machine learning models, analyzing large datasets, and communicating insights to stakeholders. Strong background in Python, SQL, and productionizing models with MLOps pipelines. Proficient in various machine learning frameworks and tools.
+
+Strengths:
+- Proven experience in building and deploying machine learning models in production environments
+- Strong proficiency in Python, SQL, and various machine learning frameworks (scikit-learn, PyTorch, XGBoost)
+- Experience in data manipulation libraries (Pandas, NumPy) and data visualization tools (Tableau)
+- Familiarity with cloud platforms (AWS) and MLOps pipelines (MLflow, Airflow)
+- Excellent communication and presentation skills, with experience presenting results to non-technical stakeholders
+
+Weaknesses:
+- Limited experience with natural language processing (NLP) techniques
+- No mention of experience with version control (Git) beyond listing it as a skill
+
+Hiring Recommendation:
+Strongly Recommended
+
+Reason:
+The candidate has extensive experience in building and deploying machine learning models, and has demonstrated strong proficiency in various machine learning frameworks and tools. Their experience in productionizing models with MLOps pipelines and presenting results to non-technical stakeholders aligns well with the job requirements.",3
+Sankavaram_RamaKrishna.pdf,48.02,53.54,37.5,100,0,"c, python, sql, git, deep learning, machine learning","azure, pytorch, power bi, excel, aws, pandas, nlp, scikit-learn, numpy, tensorflow",Weak Fit,"Candidate Summary:
+Highly motivated and skilled B.Tech graduate in Artificial Intelligence and Machine Learning with a strong foundation in Python development, full-stack web technologies, and AI. Gained hands-on experience through internships and projects involving application development, data preprocessing, machine learning models, and deployment. Enthusiastic about contributing to real-world engineering solutions.
+
+Strengths:
+- Strong proficiency in Python and experience with machine learning frameworks such as scikit-learn and TensorFlow.
+- Hands-on experience with full-stack web development using Flask, HTML, CSS, and JavaScript.
+- Familiarity with natural language processing (NLP) techniques and experience with AI-powered projects.
+- Strong problem-solving skills and attention to detail, as demonstrated through participation in hackathons and completion of DSA problems.
+
+Weaknesses:
+- Limited work experience (less than 2 years) in a data science or machine learning role.
+- Lack of direct experience with cloud platforms (AWS or Azure) and version control (Git) in a professional setting.
+
+Hiring Recommendation:
+Recommended
+
+Reason:
+The candidate has a strong academic background and relevant skills in machine learning, AI, and full-stack web development. However, their limited work experience and lack of direct experience with cloud platforms and version control may require additional training or support.",4
+Sarah_Williams.docx,44.43,50.11,31.25,0,100,"c, excel, python, sql, pandas","azure, pytorch, power bi, aws, nlp, git, scikit-learn, deep learning, machine learning, tensorflow, numpy",Weak Fit,"Candidate Summary:
+Sarah Williams is a detail-oriented data analyst with 4 years of experience in turning operational data into actionable insights. She has a strong foundation in SQL, Python, and data visualization tools like Tableau. Her focus on self-serve dashboards and data storytelling skills make her a strong candidate for a data scientist role.
+
+Strengths:
+- Strong proficiency in SQL and Python programming languages
+- Experience with data visualization tools like Tableau and Excel
+- Proven ability to communicate insights to non-technical stakeholders
+- Demonstrated problem-solving skills through successful projects
+
+Weaknesses:
+- Limited experience in machine learning and deep learning frameworks
+- No direct experience in building predictive models or collaborating with engineering teams
+- Education is in Statistics, but not in Computer Science or a related field
+
+Hiring Recommendation:
+Consider
+
+Reason:
+While Sarah has a strong foundation in data analysis and visualization, her lack of experience in machine learning and deep learning frameworks, as well as her limited experience in building predictive models, makes her a less competitive candidate for the data scientist role. However, her strong problem-solving skills and ability to communicate insights make her a potential candidate for further development and training.",5
+David_Kim.docx,41.57,39.39,6.25,100,100,c,"azure, pytorch, excel, python, sql, pandas, deep learning, numpy, tensorflow, power bi, aws, nlp, git, scikit-learn, machine learning",Weak Fit,"Candidate Summary:
+David Kim is a seasoned project manager with 9 years of experience delivering enterprise software implementations. He holds a PMP certification and has managed cross-functional teams of up to 25 people. However, his background is in project management rather than data science.
+
+Strengths:
+- Proven experience in managing cross-functional teams and delivering projects on time and within budget
+- Strong project management skills, including risk management, budget management, and stakeholder communication
+- PMP certification and experience leading internal training on agile-waterfall hybrid methodology
+
+Weaknesses:
+- Lack of experience in data science or machine learning roles
+- No relevant technical skills, such as proficiency in Python, SQL, or machine learning frameworks
+
+Hiring Recommendation:
+Not Recommended
+
+Reason:
+David Kim's background and experience are not aligned with the requirements of the Data Scientist role, which emphasizes strong technical skills in machine learning and data analysis. His project management experience, while valuable, does not translate directly to the technical requirements of this position.",6
+Tom_Richardson.txt,25.02,26.3,6.25,0,100,c,"azure, pytorch, excel, python, sql, pandas, deep learning, numpy, tensorflow, power bi, aws, nlp, git, scikit-learn, machine learning",Weak Fit,"Candidate Summary:
+The candidate, Tom Richardson, has 11 years of experience in sales and has consistently ranked top 3 out of 40+ reps nationally. He has a strong track record of closing large deals and building long-term accounts. However, his background is in sales rather than data science.
+
+Strengths:
+- Proven sales experience with a strong track record of closing large deals
+- Ability to build long-term accounts and relationships
+- Strong leadership skills, as demonstrated by mentoring junior account executives
+
+Weaknesses:
+- Lack of experience in data science or machine learning
+- No relevant technical skills, such as proficiency in Python or SQL
+
+Hiring Recommendation:
+Not Recommended
+
+Reason:
+The candidate's background and skills are not aligned with the requirements of the Data Scientist position, which requires strong experience in machine learning, data analysis, and technical skills such as Python and SQL.",7
+James_Walker.txt,24.35,24.96,6.25,0,100,c,"azure, pytorch, excel, python, sql, pandas, deep learning, numpy, tensorflow, power bi, aws, nlp, git, scikit-learn, machine learning",Weak Fit,"Candidate Summary:
+James Walker is a Customer Success Manager with 5 years of experience in B2B SaaS, managing a portfolio of mid-market and enterprise accounts. He has a strong background in customer success, but lacks experience in data science or machine learning.
+
+Strengths:
+- Proven track record of reducing churn and driving revenue growth in customer success roles
+- Strong leadership and collaboration skills, demonstrated through building and implementing an onboarding playbook
+- Excellent communication and problem-solving skills, as evidenced by his high customer satisfaction scores and first-contact resolution rates
+
+Weaknesses:
+- No direct experience in data science or machine learning
+- Limited technical skills, with no proficiency in programming languages like Python or SQL mentioned in his resume
+
+Hiring Recommendation:
+Consider
+
+Reason:
+James Walker's background in customer success is not directly applicable to the Data Scientist role, and his lack of technical skills and experience in data science or machine learning makes him a less competitive candidate for the position. However, his strong leadership and communication skills may be transferable to a role that involves working with data scientists or communicating insights to stakeholders.",8
+Emily_Chen.pdf,20.85,17.96,6.25,0,100,c,"azure, pytorch, excel, python, sql, pandas, deep learning, numpy, tensorflow, power bi, aws, nlp, git, scikit-learn, machine learning",Weak Fit,"Candidate Summary:
+Emily Chen is a detail-oriented Registered Nurse with 6 years of experience in medical-surgical and emergency care. She has strong patient education and care coordination skills, but lacks experience in data science or machine learning.
+
+Strengths:
+- Strong patient education and care coordination skills
+- Experience in managing high-pressure situations as a Registered Nurse
+- Proven ability to train and mentor new staff members
+
+Weaknesses:
+- No experience in data science or machine learning
+- Lack of relevant technical skills, such as proficiency in Python or SQL
+
+Hiring Recommendation:
+Not Recommended
+
+Reason:
+Emily's background and skills are not aligned with the requirements of the Data Scientist position, which demands strong experience in machine learning, data analysis, and technical skills such as Python and SQL.",9
+Lisa_Nguyen.txt,16.89,10.03,6.25,0,100,c,"azure, pytorch, excel, python, sql, pandas, deep learning, numpy, tensorflow, power bi, aws, nlp, git, scikit-learn, machine learning",Weak Fit,"Candidate Summary:
+Lisa Nguyen is a licensed mechanical engineer with 6 years of experience in automotive powertrain design. She has a strong background in CAD modeling, thermal analysis, and DFM for high-volume manufacturing. However, her experience and skills do not align with the requirements of a Data Scientist.
+
+Strengths:
+- Strong experience in CAD modeling and thermal analysis
+- Skilled in SolidWorks, ANSYS, and other mechanical engineering tools
+- Proven problem-solving skills and attention to detail
+
+Weaknesses:
+- Lack of experience in machine learning, data analysis, and programming (Python, SQL)
+- No relevant education or certifications in data science or a related field
+- No experience with data manipulation libraries, NLP techniques, or cloud platforms
+
+Hiring Recommendation:
+Not Recommended
+
+Reason:
+Lisa Nguyen's background and experience are not aligned with the requirements of a Data Scientist. She lacks the necessary skills and education in machine learning, data analysis, and programming, making her unsuitable for the role.",10
