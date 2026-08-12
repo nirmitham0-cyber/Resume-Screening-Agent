@@ -2,7 +2,7 @@ import re
 
 # Common technical skills
 COMMON_SKILLS = [
-    "python", "java", "c", "c++", "sql", "mysql", "postgresql",
+    "python", "java", "c", "c++", "sql", "mysql", 
     "html", "css", "javascript", "react", "node.js", "flask",
     "django", "git", "github", "docker", "aws", "azure",
     "machine learning", "deep learning", "nlp", "computer vision",
@@ -14,8 +14,6 @@ COMMON_SKILLS = [
 # so the strongest qualification found is reported.
 # Level: 2 = Bachelor's, 3 = Master's, 4 = PhD
 EDUCATION_LEVELS = {
-    "phd": 4,
-    "ph.d": 4,
     "m.tech": 3,
     "mtech": 3,
     "m.sc": 3,
