@@ -24,7 +24,7 @@ from scorer import calculate_final_score
 from llm import analyze_resume
 from exporter import export_results
 
-MAX_RESUMES = 10
+MAX_RESUMES = 20
 SUPPORTED_EXTENSIONS = (".pdf", ".docx", ".txt")
 JD_FILE = "jd.txt"
 SAMPLE_RESUME_FOLDER = "resumes"
@@ -148,11 +148,11 @@ st.subheader("2️⃣ Resumes")
 
 resume_mode = st.radio(
     "Choose resume source",
-    ["Use 10 bundled sample resumes", "Upload my own resumes"],
+    ["Use 10+ bundled sample resumes", "Upload my own resumes"],
     horizontal=True,
 )
 
-if resume_mode == "Use 10 bundled sample resumes":
+if resume_mode == "Use 10+ bundled sample resumes":
     sample_names = list_sample_resumes()
     st.session_state.resume_files = [
         {"name": n, "path": os.path.join(SAMPLE_RESUME_FOLDER, n)}
@@ -163,7 +163,7 @@ if resume_mode == "Use 10 bundled sample resumes":
 
 else:
     resume_uploads = st.file_uploader(
-        "Upload up to 10 resumes (PDF, DOCX, TXT)",
+        "Upload 10+ resumes (PDF, DOCX, TXT)",
         type=["pdf", "docx", "txt"],
         accept_multiple_files=True,
         key="resume_uploader",
@@ -173,7 +173,7 @@ else:
         if len(resume_uploads) > MAX_RESUMES:
             st.warning(
                 f"⚠️ You uploaded {len(resume_uploads)} resumes. "
-                f"Only the first {MAX_RESUMES} will be processed."
+               
             )
             resume_uploads = resume_uploads[:MAX_RESUMES]
 
