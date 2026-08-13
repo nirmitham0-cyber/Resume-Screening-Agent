@@ -6,7 +6,7 @@ matching, and LLM-generated reasoning, then outputs a ranked shortlist.
 
 ## Deliverables (per spec)
 - Job Description: `jd.txt` (Data Scientist role, hardcoded — no JD upload needed)
-- Sample resumes: `resumes/` (10 pre-loaded resumes, PDF/DOCX/TXT)
+- Sample resumes: `resumes/` (15 pre-loaded resumes, PDF/DOCX/TXT)
 - Ranked output: `output/ranked_candidates.csv`, `output/ranked_candidates.json`
 - Scoring method note: `SCORING_METHOD.md`
 
@@ -40,8 +40,8 @@ python main.py
 ```bash
 streamlit run app.py
 ```
-By default the app uses the 10 bundled sample resumes. You can switch to
-uploading your own resumes (max 10) from the UI.
+By default the app uses the 10+ bundled sample resumes. You can switch to
+uploading your own (10+) resumes (max=20) from the UI.
 
 ## Project Structure
 ```
