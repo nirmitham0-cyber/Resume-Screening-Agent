@@ -1,0 +1,32 @@
+FATIMA SHEIKH
+Junior Backend Developer | Hyderabad, Telangana
+Email: fatima.sheikh.dev@gmail.com | Phone: +91 95120 44556 | LinkedIn: linkedin.com/in/fatimasheikhdev
+
+PROFESSIONAL SUMMARY
+Backend developer with 1 year of professional experience building REST APIs and managing
+relational databases for small business applications.
+
+EDUCATION
+B.Tech in Information Technology
+Vasavi College of Engineering, Hyderabad (Osmania University) | 2019 - 2023 | CGPA: 8.1/10
+
+SKILLS
+Python, Java, SQL, MySQL, Git, GitHub, Django, Flask, Docker, REST API Design,
+Postman, Linux Basics
+
+WORK EXPERIENCE
+Junior Backend Developer, ClearStack Innovations | Jul 2023 - Present
+- Developed REST APIs using Flask and Django for internal inventory management tools
+- Wrote and optimized MySQL queries for reporting modules
+- Containerized services using Docker for consistent local development environments
+
+Intern, DataForge Labs | Jan 2023 - Jun 2023
+- Assisted with migrating a legacy Java application's database layer to MySQL
+
+PROJECTS
+Inventory Management API - Flask + MySQL REST API supporting CRUD operations and
+role-based access, deployed via Docker
+
+CERTIFICATIONS
+Python for Everybody, Coursera
+Docker Essentials, Udemy

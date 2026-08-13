@@ -1,0 +1,32 @@
+MANOJ PATIL
+IT Support Executive | Nashik, Maharashtra
+Email: manoj.patil.itsupport@gmail.com | Phone: +91 85120 44556 | LinkedIn: linkedin.com/in/manojpatilit
+
+PROFESSIONAL SUMMARY
+IT support executive with hands-on troubleshooting experience and basic scripting and
+database exposure, looking to move into a software-adjacent role.
+
+EDUCATION
+Diploma in Computer Applications
+Maharashtra State Board of Technical Education, Nashik | 2021 - 2023
+
+Higher Secondary Certificate (Science)
+Nashik Junior College | 2019 - 2021
+
+SKILLS
+Python, SQL, Excel, Networking Basics, Hardware Troubleshooting, Windows Server,
+Customer Support, Ticketing Systems (Jira)
+
+WORK EXPERIENCE
+IT Support Executive, Sahyadri InfoServe | Jul 2023 - Present
+- Resolved 500+ internal support tickets covering hardware, network, and software issues
+- Wrote small Python scripts to automate routine log checks
+- Maintained an SQL-based asset tracking sheet for company laptops and licenses
+
+PROJECTS
+Ticket Auto-Categorizer - Small Python script using keyword rules to auto-tag incoming
+support tickets by category before manual review
+
+CERTIFICATIONS
+CompTIA A+ (In Progress)
+Basic SQL, Great Learning

@@ -1,0 +1,42 @@
+SURESH KUMAR
+Full Stack AI Engineer | Gurugram, Haryana
+Email: suresh.kumar.fullstackai@gmail.com | Phone: +91 86120 33445 | LinkedIn: linkedin.com/in/sureshkumarai
+
+PROFESSIONAL SUMMARY
+Full stack AI engineer with an MBA and B.Tech background, combining hands-on engineering
+across web development, cloud infrastructure, data analytics, and deep learning with
+business strategy experience.
+
+EDUCATION
+MBA in Technology Management
+Indian Institute of Management (IIM) Lucknow | 2021 - 2023 | CGPA: 8.8/10
+
+B.Tech in Computer Science Engineering
+Delhi Technological University | 2015 - 2019 | CGPA: 8.9/10
+
+SKILLS
+Python, Java, C, C++, SQL, MySQL, HTML, CSS, JavaScript, React, Node.js, Flask,
+Django, Git, GitHub, Docker, AWS, Azure, Machine Learning, Deep Learning, NLP,
+Computer Vision, TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, Power BI, Excel
+
+WORK EXPERIENCE
+Full Stack AI Engineer, Vertex Nova Technologies | Aug 2023 - Present
+- Own end-to-end delivery of AI-powered web products: React/Node.js front end, Flask and
+  Django backends, deployed on AWS and Azure using Docker
+- Built machine learning and deep learning models (TensorFlow, PyTorch, Keras,
+  Scikit-learn) for computer vision and NLP use cases
+- Manage MySQL and reporting layers, with Power BI and Excel dashboards for stakeholders
+- Wrote performance-critical modules in C and C++ for real-time inference
+
+Software Engineer, Bracket Systems | Jul 2019 - Jul 2021
+- Built Java and SQL backend services before transitioning into ML-focused roles
+
+PROJECTS
+Unified AI Commerce Platform - Full-stack platform (React, Node.js, Django, MySQL)
+with computer vision recommendation engine (PyTorch, TensorFlow, Keras) and NLP-based
+search (Scikit-learn, NumPy, Pandas), deployed on AWS/Azure via Docker
+
+CERTIFICATIONS
+AWS Certified Machine Learning - Specialty
+Microsoft Certified: Azure AI Engineer Associate
+Power BI Data Analyst Associate

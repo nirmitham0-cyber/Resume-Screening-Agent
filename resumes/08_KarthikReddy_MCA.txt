@@ -1,0 +1,35 @@
+KARTHIK REDDY
+Machine Learning Intern | Vijayawada, Andhra Pradesh
+Email: karthik.reddy.ml@gmail.com | Phone: +91 92340 77889 | LinkedIn: linkedin.com/in/karthikreddyml
+
+PROFESSIONAL SUMMARY
+MCA graduate with strong fundamentals in machine learning, deep learning, and NLP,
+seeking a full-time ML engineering role.
+
+EDUCATION
+MCA (Master of Computer Applications)
+Andhra University, Visakhapatnam | 2022 - 2024 | CGPA: 8.3/10
+
+Bachelor of Science in Computer Science
+Andhra University, Visakhapatnam | 2019 - 2022 | CGPA: 7.9/10
+
+SKILLS
+Python, SQL, Machine Learning, Deep Learning, TensorFlow, Keras, NumPy, Pandas,
+Scikit-learn, NLP, Git, GitHub, Java, JavaScript, HTML
+
+WORK EXPERIENCE
+Machine Learning Intern, NeuralArc AI | Jan 2024 - Jun 2024
+- Trained sentiment classification models using TensorFlow and Keras on customer review data
+- Built text preprocessing pipelines using NLP techniques (tokenization, TF-IDF, embeddings)
+- Evaluated models using Scikit-learn metrics and iterated on feature engineering with Pandas
+
+PROJECTS
+Product Review Sentiment Classifier - Deep learning model (Keras/TensorFlow) achieving
+88% accuracy on multi-class sentiment classification of product reviews
+
+Resume Keyword Matcher - Python + Scikit-learn tool ranking resumes against job
+descriptions using TF-IDF cosine similarity
+
+CERTIFICATIONS
+Deep Learning Specialization, Coursera (Andrew Ng)
+NLP with Python, Udemy
