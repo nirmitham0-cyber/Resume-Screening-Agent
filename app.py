@@ -119,7 +119,7 @@ with st.sidebar:
     )
 
     st.subheader("📁 Resumes Loaded")
-    st.write(f"{len(st.session_state.resume_files)} / {MAX_RESUMES}")
+    st.write(f"{len(st.session_state.resume_files)} / 10+ ")
 
     if st.button("🗑️ Clear Uploads"):
         st.session_state.resume_files = []
